@@ -3,7 +3,9 @@
 Das hier ist die open-source Dokumentation der Darrystadt Website.
 Da unser Discord Server Team alle Projekte unter der [MIT License](LICENSE) veröffentlicht, kann jeder darauf zugreifen und auch gerne, wie er möchte nutzen. 
 
-~*Das Darrystadt Server Team*
+Wir würden uns freuen, wenn es tolle Menschen geben würde, die die Website verbessern wollen!
+
+#### ~*Das Darrystadt Server Team*
 
 
 ## Mitwirken
